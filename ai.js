@@ -1,5 +1,5 @@
-const API_URL = "https://api.sambanova.ai/v1/chat/completions";
-const API_KEY = "82c3b4bb-1d1b-4746-9ab6-21db50664370";
+const API_URL 
+const API_KEY 
 
 const SYSTEM_PROMPT = `
 You are a friendly and creative chef. When a user gives you a list of ingredients they have, suggest a recipe that they could cook using some or all of those ingredients.
